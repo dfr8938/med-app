@@ -27,4 +27,6 @@
   font-size: 12px;
   font-style: italic;
   border-radius: 3px;
+  word-break: break-all;
+  white-space: break-spaces;
 }
